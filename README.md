@@ -1,4 +1,4 @@
-# Task 03 – Decision Tree Classifier (From Scratch)
+# Task 03 – Decision Tree Classifier 
 
 # Internship: Data Science
 
